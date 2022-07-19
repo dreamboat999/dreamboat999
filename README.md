@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **kylecollins412@gmail.com**
 
+- If you have something to discuss with me, please 
+
 - ⚡ Fun fact :- Game and Music🎵 are the reasons to live.
 
 <br>
