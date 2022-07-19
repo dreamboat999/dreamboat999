@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle Yutaka</h1>
-<h3 align="center">Full-Stack Web Engineer🌟.</h3>
+<h3 align="center">A well-mannered, cool😎 Full-Stack Web Developer🌟</h3>
 
 <br>
 
@@ -15,9 +15,7 @@
 
 - 📫 How to reach me **kylecollins412@gmail.com**
 
-- If you have something to discuss with me, please 
-
-- ⚡ Fun fact :- Game and Music🎵 are the reasons to live.
+- 🤝If you have something to discuss with me, please cotact me **https://join.skype.com/invite/w5hop9B0lMc2**
 
 <br>
 
