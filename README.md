@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreamboat999&no-bg=true&theme=algolia" alt="dreamboat999" /></a> </p>
 <br>
 
-<p><img align="right" src="https://github.com/dreamboat999/dreamboat999/blob/master/animation_500_kxa883sd.gif" alt="dreamboat999" /></p>
+<p><img align="right" src="https://github.com/dreamboat999/dreamboat999/blob/master/animation_500_kxa883sd.gif" alt="dreamboat999" width="20%" height="20%"/></p>
 
 - 🌱 I’m currently developing great awesome websites.
 
