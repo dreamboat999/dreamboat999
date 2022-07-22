@@ -39,19 +39,17 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamboat999&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamboat999&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="dreamboat999" 
-    bg_color=#808080/></p>
+    bg_color=#808080 />
 
-<br>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=dreamboat999&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="dreamboat999" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dreamboat999&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="dreamboat999" width="48%"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamboat999&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="dreamboat999" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreamboat999&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="dreamboat999" /></p>
+</p>
 
 <!-- <br>
 <h3>Trophies :-</h3>
